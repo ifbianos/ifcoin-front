@@ -1,0 +1,24 @@
+.css-8aykrw-MuiButtonBase-root-MuiButton-root:hover  { 
+    background-color: #40A852 !important; 
+
+    transition: 0.5s;
+
+    opacity: 0.7;
+
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #40A852 !important;
+}
+
+#code-label{
+    color: #40A852;
+}
+
+.css-oak9zr-MuiTypography-root-MuiLink-root {
+    text-decoration-color: #A9A7A7 !important;
+}
+
+.css-1i5ty6u {
+    height: 600px;    
+}   
