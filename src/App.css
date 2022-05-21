@@ -1,0 +1,32 @@
+:root {
+  --ultra-light-pink: #FFEFF2;
+  --medium-light-pink: #f6c9d6;
+  --light-pink: #F8738E;
+  --dark-pink: #F72747;
+  --gray: #636466;
+  --dark-gray: #3e3e3e;
+  --poppins: 'Poppins', sans-serif;
+  --green: #40A852;
+  --ultra-light-green: #DCECDE;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.app {
+  width: 100vw;
+  height: 100vh;
+
+  background: #fff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
