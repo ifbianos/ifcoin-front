@@ -1,5 +1,5 @@
 # IFCoin
-To up this project you need to follow
+To up this project you need to follow the steps bellow:
 1. clone the project
 2. open in the terminal on the cloned repository
 3. enter the command "npm i" to install the dependencies
