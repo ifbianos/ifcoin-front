@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "Rafael Mendonça",
+        "class": ""
+    },
+    {
+        "id": 2,
+        "name": "Sheory Martins",
+        "class_id": 1
+    }
+]
+
